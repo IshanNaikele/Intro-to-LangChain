@@ -4,3 +4,12 @@ To use LangChain :
 3]Create API Key 
 4]Give description there .
 5]Give any random name to LANGCHAIN_PROJECT and put your LANGCHAIN_API_KEY that you got .(BOTH in env File)
+
+To use Huggingface :
+1]Go to huggingface.co
+2]Go to setting
+3]Go to Access Token
+4]Enter Your Password
+5]Create New Key
+6]Enter Token Name and allow read access
+7]Save your API key as HUGGINGFACE_API_KEY in .env file
