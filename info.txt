@@ -1,0 +1,6 @@
+To use LangChain :
+1]Go to these : https://smith.langchain.com/o/3d215db0-c174-4b44-af7d-fd71c7b05b61/
+2]Go to setting
+3]Create API Key 
+4]Give description there .
+5]Give any random name to LANGCHAIN_PROJECT and put your LANGCHAIN_API_KEY that you got .(BOTH in env File)
